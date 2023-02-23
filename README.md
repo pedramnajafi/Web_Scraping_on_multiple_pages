@@ -34,3 +34,4 @@ The scraper can then replicate entire website content elsewhere.
                 print('%s) Price: %s , Item Name: %s' % (count, itemPrice, itemName))
                 count = count + 1
 
+
