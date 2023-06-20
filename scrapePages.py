@@ -1,3 +1,4 @@
+
 from bs4 import BeautifulSoup
 import requests
 url = 'https://scrapingclub.com/exercise/list_basic/'
